@@ -1,3 +1,6 @@
-export const API_KEY ="AIzaSyABRwYj7zrlUY6t0bF6rG7_oF9g7-fCE7w";
+//Add your Own API key
+// https://developers.google.com/custom-search/v1/overview
+
+export const API_KEY ="xxxxxxxxxxxxxxxxxxxxxxxxxxxxx";
 
 export default API_KEY;
