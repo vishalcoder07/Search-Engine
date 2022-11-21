@@ -1,6 +1,6 @@
 
 ## Search Engine 
-**Search Engine** that is Builds Using **React JS, Firebase Database and Google Search API (Programmable Search Engine)
+**Search Engine** that is Builds Using **React JS, Firebase Database and Google Search API (Programmable Search Engine)**
 
 •	The Application gives web **search results without reloading the page With the Help of ReactJS**.
 •	The Application **Fetches Search Results from Google Search API.** 
