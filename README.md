@@ -1,7 +1,9 @@
 
-## Google search engine clone 
-**Google search engine clone** that built using **React js** and **Google search API**
-(Programmable Search Engine)
+## Search Engine 
+**Search Engine** that is Builds Using **React JS, Firebase Database and Google Search API (Programmable Search Engine)**
+
+•	The Application gives web search results without reloading the page With the Help of ReactJS.
+•	The Application Fetches Search Results from Google Search API.
 
 1. **Programmable Search Engine** -
     The Custom Search JSON API lets you develop websites and applications to retrieve and display search results from Programmable Search Engine programmatically. In this project API is Used for RESTful requests to get either web search or image search results in JSON format.
